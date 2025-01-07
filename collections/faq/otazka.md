@@ -1,0 +1,4 @@
+---
+question: Otazka?
+answer: Odpoved.
+---
