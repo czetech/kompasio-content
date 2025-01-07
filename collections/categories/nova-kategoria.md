@@ -1,4 +1,4 @@
 ---
 title: Nova kategoria
-description: Popis
+description: Popis.
 ---
