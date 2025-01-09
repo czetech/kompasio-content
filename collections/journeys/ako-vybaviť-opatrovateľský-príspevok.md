@@ -16,4 +16,26 @@ steps:
 
       **Celkový príjem domácnosti sa od 1.12.2024 už neposudzuje.**
     tasks: []
+  - name: Príprava príloh
+    body: >-
+      Príprava príloh môže zabrať viac času a preto je vhodné si ich pripraviť
+      ešte pred podaním žiadosti.
+
+
+      Prílohy doporučujeme vyplniť a podpísať elektronicky.
+
+
+      VIAC
+
+
+      K žiadosti budete potrebovať nasledovné prílohy.
+  - name: Podanie žiadosti
+    body: >-
+      Žiadosť podáte elektronicky, prostredníctvom portálu slovensko.sk TU.
+
+
+      Prečo dôrazne doporučujeme so všetkými úradmi viesť výhradne elektronickú komunikáciu si prečítajte TU.
+
+
+      Ak z akéhokoľvek dôvodu uprednpostníte papierovú žiadosť, nájdete ju TU. Pri podaji papierovej žiadosti, nemusí tento postup fungovať správne, papierové workflow netestujeme.
 ---
