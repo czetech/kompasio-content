@@ -98,7 +98,20 @@ steps:
       "Dolkady o príjmoch žiadateľa"  (PDF, nepovinná)
 
 
-      Vzor stiahni TU.
+
+
+      „Doklady o príjmoch opatrovaných osôb za predchádzajúci kalendárny rok“ (PDF, nepovinná)
+
+
+
+
+      „Doklady o príjmoch spoločne posudzovaných osôb za predchádzajúci kalendárny rok“ (PDF, nepovinná)
+
+
+      Ak je to potrebné, môžete priložiť aj ďalšie prílohy.
+
+
+      **Dôležité: Prílohy môžete podpísať priamo v prostredí slovensko.sk - nie je nutné ich podpisovať vopred v inom programe.**
     tasks:
       - Všetky prílohy pripravené
       - Všetky prílohy podpísané
