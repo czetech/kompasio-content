@@ -168,7 +168,7 @@ steps:
       **Dôležité: Prílohy môžete podpísať priamo v prostredí slovensko.sk - nie je nutné ich podpisovať vopred v inom programe, ani podpisy "notársky overovať". Elektronický podpis je rovný notársky overenému podpisu.**
     tasks:
       - Všetky prílohy pripravené
-      - Všetky prílohy podpísané
+      - Všetky prílohy podpísané cez EID
   - name: Podanie žiadosti
     body: >-
       Žiadosť podáte elektronicky, prostredníctvom portálu slovensko.sk TU.
