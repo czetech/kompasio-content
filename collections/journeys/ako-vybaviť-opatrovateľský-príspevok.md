@@ -49,37 +49,43 @@ steps:
       **Prílohy doporučujeme vyplniť a podpísať elektronicky.**
 
 
-      VIAC
-
-
       K žiadosti budete potrebovať nasledovné prílohy:
 
 
 
 
-      „Súhlas opatrovanej osoby s opatrovaním, alebo potvrdenie lekára, že opatrovaný(á) nemôže takýto súhlas podpísať - POVINNÁ PRÍLOHA“ (PDF)
+      **Súhlas opatrovanej osoby s opatrovaním**, alebo potvrdenie lekára, že opatrovaný(á) nemôže takýto súhlas podpísať - **POVINNÁ PRÍLOHA** (PDF)
 
 
       V prípade detí vyplní rodič.
 
 
-      Vzor stiahni TU.
+      [Verziu DOCX stiahni TU.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/www.slovensko.sk_Priloha_k_ziadosti_Suhlas_s_opatrovanim.docx)
+
+
+      [Verziu PDF (form) stiahni TU.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/www.slovensko.sk_Priloha_k_ziadosti_Suhlas_s_opatrovanim.pdf)
 
 
 
 
-      „Lekársky nález“ (PDF, nepovinná)
+      **Lekársky nález** (PDF, nepovinná)
 
 
-      Vypĺňa lekár. KEDY TO TREBA???
+      Vypĺňa lekár. 
 
 
-      Vzor stiahni TU.
+      Žiadosť nemusí obsahovať vyplnené tlačivo „Lekársky nález na účely konania vo veciach kompenzácie, preukazu a parkovacieho preukazu“ v prípade, ak bola opatrovaná osoba v minulosti posúdená posudkovým lekárom úradu a na základe lekárskeho posudku sa považuje za fyzickú osobu s ťažkým zdravotným postihnutím. Pre posúdenie zdravotného stavu treba predložiť odborné lekárske nálezy, ktoré nemal posudkový lekár pri poslednom posúdení k dispozícii.
+
+
+      V prípade, ak je zdravotný stav posudzovanej osoby chronický s trvalým poškodením a od ďalšej liečby nemožno očakávať zlepšenie a nedošlo k zhoršeniu zdravotného stavu a všetky odborné lekárske nálezy boli úradu na účely posúdenia zdravotného stavu predložené,  nie je nutné k žiadosti prikladať ďalšie nálezy. **Zdroj:** Krok č. 9 elektronickej žiadosti.
+
+
+      [Tlačivo PDF stiahni TU.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/lekarsky_nalez.pdf)
 
 
 
 
-      "Odborné vyšetrenia" (PDF, nepovinná)
+      **Odborné vyšetrenia** (PDF, nepovinná)
 
 
       Lekárske správy od špecialistov (najmä psychiater)
@@ -87,10 +93,24 @@ steps:
 
 
 
-      "Vyhlásenie o majetku"  (PDF, nepovinná)
+      **Vyhlásenie o majetku**  (PDF, nepovinná)
 
 
-      Vzor stiahni TU.
+      Žiadosť o priznanie peňažného príspevku na opatrovanie nemusí obsahovať vyhlásenie o majetku len v prípade, ak už bolo v období  3 mesiacov pred podaním žiadosti predložené úradu práce, sociálnych vecí a rodiny s inou žiadosťou.
+
+      Vyhlásením o majetku **preukazuje hodnotu majetku opatrovaná osoba**, nie žiadateľ.
+
+
+      **Zdroj:** Krok č. 9 elektronickej žiadosti.
+
+
+      Dôležité: podpis vyhlásenia elektronickým podpisom je rovnocenný notárkesmu overeniu. digitálny podpis sa už nijak neoveruje. 
+
+
+      Verzia DOCX stiahni TU.
+
+
+      Verzia PDF stiahni TU.
 
 
 
