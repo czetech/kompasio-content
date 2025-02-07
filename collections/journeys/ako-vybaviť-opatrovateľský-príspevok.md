@@ -32,7 +32,7 @@ steps:
       Ak opatrovateľ túto sumu prekročí, nemá nárok na opatrovateľský príspevok.
 
 
-      Vzhľadom na túto skutočnosť je v niektorých prípadoch vhodné, nastaviť si podľa toho príjem.
+      Vzhľadom na túto skutočnosť je v niektorých prípadoch vhodné, nastaviť si podľa toho príjema alebo zvoliť osobu, ktorá o príspevok požiada.
 
 
       **\* Dôležité:** Príjmom zo zamestnania sa na účely tohoto posúdenia okrem zamestnania rozumie napr. aj (štátny zamestnanecký pomer, výkon verejnej funkcie, čí príjem zo živnosti alebo slobodného povolania.
