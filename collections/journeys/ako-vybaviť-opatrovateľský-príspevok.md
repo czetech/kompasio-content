@@ -217,4 +217,13 @@ steps:
       Pred podpisom žiadosti použite tlačidlo SKONTROLOVAŤ - systém overí, či sú všetky ptrebné polia vyplnené.
     tasks:
       - Žiadosť vyplnená a skontrolovaná
+  - name: Priložiť prílohy
+    body: >-
+      Pripravené prílohy postupne nahrajte do žiadosti.
+
+
+      Každú jednu prílohu je potrebné samostatne podpísať cez EID (ak ste to neurobili v inom programe vopred - ale to je len pre profíkov).
+    tasks:
+      - Nahrať prílohy
+      - Podpísať prílohy
 ---
