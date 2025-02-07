@@ -53,6 +53,52 @@ steps:
 
 
       K žiadosti budete potrebovať nasledovné prílohy:
+
+
+
+
+      „Súhlas opatrovanej osoby s opatrovaním, alebo potvrdenie lekára, že opatrovaný(á) nemôže takýto súhlas podpísať - POVINNÁ PRÍLOHA“ (PDF)
+
+
+      V prípade detí vyplní rodič.
+
+
+      Vzor stiahni TU.
+
+
+
+
+      „Lekársky nález“ (PDF, nepovinná)
+
+
+      Vypĺňa lekár. KEDY TO TREBA???
+
+
+      Vzor stiahni TU.
+
+
+
+
+      "Odborné vyšetrenia" (PDF, nepovinná)
+
+
+      Lekárske správy od špecialistov (najmä psychiater)
+
+
+
+
+      "Vyhlásenie o majetku"  (PDF, nepovinná)
+
+
+      Vzor stiahni TU.
+
+
+
+
+      "Dolkady o príjmoch žiadateľa"  (PDF, nepovinná)
+
+
+      Vzor stiahni TU.
     tasks:
       - Všetky prílohy pripravené
       - Všetky prílohy podpísané
