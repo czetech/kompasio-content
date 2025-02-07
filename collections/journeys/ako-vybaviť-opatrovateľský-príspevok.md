@@ -171,7 +171,8 @@ steps:
       - Všetky prílohy podpísané cez EID
   - name: Podanie žiadosti
     body: >-
-      Žiadosť podáte elektronicky, prostredníctvom portálu slovensko.sk TU.
+      Žiadosť podáte elektronicky, [prostredníctvom portálu slovensko.sk
+      TU.](https://www.slovensko.sk/sk/detail-sluzby?externalCode=ks_351910)
 
 
       Prečo dôrazne doporučujeme so všetkými úradmi viesť výhradne elektronickú komunikáciu si prečítajte TU.
