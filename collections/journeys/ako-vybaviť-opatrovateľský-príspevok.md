@@ -40,7 +40,7 @@ steps:
 
       Zdroj: [§41 ods.2 zákona 447/2008 Z. z.](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2008/447/20240701.html#paragraf-41.odsek-2)
     tasks: []
-  - name: Príprava príloh
+  - name: Príprava príloh (0,5 - 2 hod)
     body: >-
       Príprava príloh môže zabrať viac času a preto je vhodné si ich pripraviť
       ešte pred podaním žiadosti.
@@ -167,16 +167,36 @@ steps:
 
       **Dôležité: Prílohy môžete podpísať priamo v prostredí slovensko.sk - nie je nutné ich podpisovať vopred v inom programe, ani podpisy "notársky overovať". Elektronický podpis je rovný notársky overenému podpisu.**
     tasks:
-      - Všetky prílohy pripravené
-      - Všetky prílohy podpísané cez EID
-  - name: Podanie žiadosti
+      - Všetky prílohy pripravené v PDF
+  - name: Podanie žiadosti (1hod)
     body: >-
-      Žiadosť podáte elektronicky, [prostredníctvom portálu slovensko.sk
-      TU.](https://www.slovensko.sk/sk/detail-sluzby?externalCode=ks_351910)
+      Prečo dôrazne doporučujeme so všetkými úradmi viesť výhradne elektronickú
+      komunikáciu si prečítajte TU.
 
 
-      Prečo dôrazne doporučujeme so všetkými úradmi viesť výhradne elektronickú komunikáciu si prečítajte TU.
+      Ak z akéhokoľvek dôvodu uprednpostníte papierovú žiadosť, nájdete ju TU: [verzia DOCX](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/Ziadost_o_PP_na_O_c.2.docx), [verzia PDF.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/Ziadost_o_PP_na_O_c._2.pdf) 
 
 
-      Ak z akéhokoľvek dôvodu uprednpostníte papierovú žiadosť, nájdete ju TU. Pri podaji papierovej žiadosti, nemusí tento postup fungovať správne, papierové workflow netestujeme.
+      Pri podaji papierovej žiadosti, nemusí tento postup fungovať správne, papierové workflow netestujeme.
+
+
+      K vyplneniu žiadosti potrebujete najmä osobné údaje žiadateľa a opatrovanej osoby.
+
+
+      **Žiadosť podáte elektronicky**, [prostredníctvom portálu slovensko.sk TU.](<>)
+
+
+
+
+
+
+      Vyberte poskytovateľa služby (UPSVaR v okrese trvalého bydliska **žiadateľa**) a kliknite P**REJSŤ NA SLUŽBU**
+
+
+
+
+      **Vyplnené jednotlivé kroky žiadosti nájdete TU.**
+
+
+      **Ide najmä**
 ---
