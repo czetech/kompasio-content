@@ -49,7 +49,7 @@ steps:
       **Prílohy doporučujeme vyplniť a podpísať elektronicky.**
 
 
-      K žiadosti budete potrebovať nasledovné prílohy:
+      K žiadosti budete potrebovať nasledovné prílohy (nie všetky sú povinné).
 
 
 
@@ -64,6 +64,9 @@ steps:
 
 
       [Verziu PDF (form) stiahni TU.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/www.slovensko.sk_Priloha_k_ziadosti_Suhlas_s_opatrovanim.pdf)
+
+
+      v mieste pre podpis doporučujeme uviesť vetu "podpísané cez EID"
 
 
 
@@ -107,31 +110,36 @@ steps:
       Dôležité: podpis vyhlásenia elektronickým podpisom je rovnocenný notárkesmu overeniu. digitálny podpis sa už nijak neoveruje. 
 
 
-      Verzia DOCX stiahni TU.
+      [Verzia DOCX stiahni TU.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/Vyhlasenie_o_majetku_1.docx)
 
 
-      Verzia PDF stiahni TU.
+      [Verzia PDF stiahni TU.](https://www.upsvr.gov.sk/buxus/docs/SSVaR/tlaciva/Vyhlasenie_o_majetku_1.pdf)
 
 
-
-
-      "Doklady o príjmoch žiadateľa"  (PDF, nepovinná)
-
-
-
-
-      „Doklady o príjmoch opatrovaných osôb za predchádzajúci kalendárny rok“ (PDF, nepovinná)
+      v mieste pre podpis doporučujeme uviesť vetu "podpísané cez EID"
 
 
 
 
-      „Doklady o príjmoch spoločne posudzovaných osôb za predchádzajúci kalendárny rok“ (PDF, nepovinná)
+      **Doklady o príjmoch žiadateľa**  (PDF, nepovinná)
+
+
+
+
+      **Doklady o príjmoch opatrovaných osôb za predchádzajúci kalendárny rok** (PDF, nepovinná)
+
+
+
+
+      **Doklady o príjmoch spoločne posudzovaných osôb za predchádzajúci kalendárny rok** (PDF, nepovinná)
+
+
 
 
       Ak je to potrebné, môžete priložiť aj ďalšie prílohy.
 
 
-      **Dôležité: Prílohy môžete podpísať priamo v prostredí slovensko.sk - nie je nutné ich podpisovať vopred v inom programe.**
+      **Dôležité: Prílohy môžete podpísať priamo v prostredí slovensko.sk - nie je nutné ich podpisovať vopred v inom programe, ani podpisy "notársky overovať". Elektronický podpis je rovný notársky overenému podpisu.**
     tasks:
       - Všetky prílohy pripravené
       - Všetky prílohy podpísané
