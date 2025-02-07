@@ -168,7 +168,7 @@ steps:
       **Dôležité: Prílohy môžete podpísať priamo v prostredí slovensko.sk - nie je nutné ich podpisovať vopred v inom programe, ani podpisy "notársky overovať". Elektronický podpis je rovný notársky overenému podpisu.**
     tasks:
       - Všetky prílohy pripravené v PDF
-  - name: Podanie žiadosti (1hod)
+  - name: Vyplnenie žiadosti (1hod)
     body: >-
       Prečo dôrazne doporučujeme so všetkými úradmi viesť výhradne elektronickú
       komunikáciu si prečítajte TU.
@@ -188,9 +188,15 @@ steps:
 
 
 
-
-
       Vyberte poskytovateľa služby (UPSVaR v okrese trvalého bydliska **žiadateľa**) a kliknite P**REJSŤ NA SLUŽBU**
+
+
+      **Dôležité: počas vypĺňania žiadosti môžete naraziť na problém, alebo potrebujete tento proces prerušiť. V takom prípade uložte rozpracovanú žiadosť tlačidlomo v dolnej časti: ULOŽIŤ DO ROZPRACOVANÝCH**
+
+
+      **Uloženú žiadosť nájde potom v svojej schránke v časti rozpracované.**
+
+
 
 
 
@@ -198,5 +204,17 @@ steps:
       **Vyplnené jednotlivé kroky žiadosti nájdete TU.**
 
 
-      **Ide najmä**
+
+
+      **Časť 7 - odôvodnenie**
+
+
+      Vzhľadom na úplnú odkázanosť môjho dieťaťa na opateru inej osoby, žiadam o pridelenie finančného príspevku na opatrovanie s súlade s §40 zákona 447/2008 Z.z.
+
+
+
+
+      Pred podpisom žiadosti použite tlačidlo SKONTROLOVAŤ - systém overí, či sú všetky ptrebné polia vyplnené.
+    tasks:
+      - Žiadosť vyplnená a skontrolovaná
 ---
