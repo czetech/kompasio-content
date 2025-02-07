@@ -46,7 +46,7 @@ steps:
       ešte pred podaním žiadosti.
 
 
-      Prílohy doporučujeme vyplniť a podpísať elektronicky.
+      Prílohy **doporučujeme vyplniť a podpísať elektronicky.**
 
 
       VIAC
