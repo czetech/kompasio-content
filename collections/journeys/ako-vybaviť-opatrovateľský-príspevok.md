@@ -71,10 +71,12 @@ steps:
 
 
 
+
+
       **Lekársky nález** (PDF, nepovinná)
 
 
-      Vypĺňa lekár. 
+      Vypĺňa lekár!
 
 
       Žiadosť nemusí obsahovať vyplnené tlačivo „Lekársky nález na účely konania vo veciach kompenzácie, preukazu a parkovacieho preukazu“ v prípade, ak bola opatrovaná osoba v minulosti posúdená posudkovým lekárom úradu a na základe lekárskeho posudku sa považuje za fyzickú osobu s ťažkým zdravotným postihnutím. Pre posúdenie zdravotného stavu treba predložiť odborné lekárske nálezy, ktoré nemal posudkový lekár pri poslednom posúdení k dispozícii.
@@ -88,10 +90,17 @@ steps:
 
 
 
+
+
       **Odborné vyšetrenia** (PDF, nepovinná)
 
 
-      Lekárske správy od špecialistov (najmä psychiater)
+      Lekárske správy od špecialistov (najmä psychiater).
+
+
+      Aj ak sa lerobí lekársky posudok, lebo už UPSVaR nejaký má, ak je to možné, priložte aktuálnu správu od psychiatra, ktrého požiadajte, aby do správy vyslovene napísal potrebné kompenzačné opatrenia, podľa diagnózy opatrovaného.
+
+
 
 
 
@@ -121,7 +130,17 @@ steps:
 
 
 
+
+
       **Doklady o príjmoch žiadateľa**  (PDF, nepovinná)
+
+
+      Iba ak má žiadateľ príjem, napr. potvrdenie o zdaniteľnej mzde, daňové priznanie, atď...
+
+
+      Skúmajú sa príjmy za predchádzajúci kalendárny rok.
+
+
 
 
 
@@ -129,9 +148,16 @@ steps:
       **Doklady o príjmoch opatrovaných osôb za predchádzajúci kalendárny rok** (PDF, nepovinná)
 
 
+      KEDY TREBA???
+
+
+
 
 
       **Doklady o príjmoch spoločne posudzovaných osôb za predchádzajúci kalendárny rok** (PDF, nepovinná)
+
+
+      KEDY TREBA???
 
 
 
