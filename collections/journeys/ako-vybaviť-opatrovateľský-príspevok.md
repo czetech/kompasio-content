@@ -4,8 +4,8 @@ category: Príspevky a kompenzácie
 steps:
   - name: Overenie výšky prípspevku
     body: >-
-      **Dôoležité: Tzv. opatrovateľský príspevok sa v skutočnosti v legislatíve
-      volá "Finančný príspevok na opatrovanie."**
+      **Dôležité: Tzv. opatrovateľský príspevok sa v skutočnosti v legislatíve
+      nazýva  "Finančný príspevok na opatrovanie."**
 
 
       Preto ho vo všetkých zákonoch a formulároch nájdete pod týmto názvom.
@@ -23,7 +23,7 @@ steps:
       **Celkový príjem domácnosti sa od 1.12.2024 už neposudzuje.** 
 
 
-      Dôležitá je už iba výška čistého príjmu opatrovateľa **zo zamestnania*.**
+      Dôležitá je už iba výška čistého príjmu **opatrovateľa zo zamestnania*.**
 
 
       Výška čistého mesačného príjmu opatrovateľa nesmie prekročiť 2,5 násobok životného minima. V druhom polroku 2024 teda nesmie prekročiť **684.97€.** 
