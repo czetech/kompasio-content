@@ -17,8 +17,6 @@ steps:
       K žiadosti je nutné priložiť lekársku správu od špecialistiu (v súvislosti s autizmom psychiatra) nie staršiu ako 6 mesiacov!!
 
 
-
-
       V časti podpis odporúčame cca takúto formuláciu.
 
 
@@ -44,10 +42,17 @@ steps:
       V žiadosti je potrebné vypísať osobné údaje a druh a formu sociálnej služby.
 
 
-      **Dôležité: posudok sa vypracuváva pre každu službu samostatne, tzn ak sa chcete hlásiť na špecializované zariadenie aj domov sociálnych služieb, musíte podať dve žiadosti.**
+      **Dôležité: posudok sa vypracuváva pre každu službu samostatne, tzn ak sa chcete hlásiť na špecializované zariadenie aj domov sociálnych služieb, musíte podať dve žiadosti.**[](https://bratislavskykraj.sk/wp-content/uploads/2024/09/ziadost-o-posudenie-odkazanosti-1.doc)
 
 
+      [](https://bratislavskykraj.sk/wp-content/uploads/2024/09/ziadost-o-posudenie-odkazanosti-1.doc)V časti podpis odporúčame cca takúto formuláciu.
 
 
-      [](https://bratislavskykraj.sk/wp-content/uploads/2024/09/ziadost-o-posudenie-odkazanosti-1.doc)
+      "v.z. Peter Htovath - otec, podpísané cez EID"  (mená a vzťahy sú vzorové!!)
+
+
+      Nie je to nutné, ale uštrí to zbytočné otázky a nedorozumenia.
+
+
+      Žiadosť si uložte ako PDF, vďalšom kroku ju pošleme.
 ---
