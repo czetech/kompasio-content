@@ -14,7 +14,21 @@ steps:
       [Bližšie info aj TU.](https://bratislavskykraj.sk/socialne-veci/otazky-a-odpovede/posudenie-odkazanosti-na-socialnu-sluzbu-a-zabezpecenie-poskytovania-socialnej-sluzby/)
 
 
-      K žiadosti je nutné priložiť lekársku správu od špecialistiu (v súvislosti s autizmom psychiatra) nie staršiu ako 6 mesiacov!!.
+      K žiadosti je nutné priložiť lekársku správu od špecialistiu (v súvislosti s autizmom psychiatra) nie staršiu ako 6 mesiacov!!
+
+
+
+
+      V časti podpis odporúčame cca takúto formuláciu.
+
+
+      "v.z. Peter Htovath - otec, podpísané cez EID"  (mená a vzťahy sú vzorové!!)
+
+
+      Nie je to nutné, ale uštrí to zbytočné otázky a nedorozumenia.
+
+
+      Žiadosť si uložte ako PDF, vďalšom kroku ju pošleme.
     tasks: []
   - name: Žiadosť
     body: >-
