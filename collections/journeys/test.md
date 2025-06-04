@@ -1,6 +1,6 @@
 ---
 JourneyTitle: new
 journeyCategory: Príspevky a kompenzácie
-title: test
+title: test-1
 ---
 test
