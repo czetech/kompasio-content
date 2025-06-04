@@ -1,6 +1,3 @@
 ---
-JourneyTitle: journey
-journeyCategory: test
-title: test-33333333
+path: my_file.md
 ---
-test
