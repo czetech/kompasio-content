@@ -1,5 +1,5 @@
 ---
-JourneyTitle: test-step-1
+JourneyTitle: test-step-2
 journeyCategory: Príspevky a kompenzácie
 title: step
 ---
