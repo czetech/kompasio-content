@@ -1,6 +1,6 @@
 ---
 JourneyTitle: journey
-journeyCategory: Príspevky a kompenzácie
-title: test-5
+journeyCategory: test
+title: test-55
 ---
 test
