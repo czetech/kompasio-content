@@ -1,6 +1,3 @@
 ---
-JourneyTitle: journey-title-new
-journeyCategory: Príspevky a kompenzácie
-title: Step name
+path: collections/journeys/step-name-1.md
 ---
-test
