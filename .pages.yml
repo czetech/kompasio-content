@@ -1,0 +1,8 @@
+content:
+- name: categories
+  label: Categories
+  path: collections/categories
+  fields:
+  - name: title
+    label: Title
+    type: string
