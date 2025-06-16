@@ -3,7 +3,9 @@ content:
   label: Categories
   type: collection
   path: collections/guides_categories
+  required: true
+  list: true
   fields:
   - name: title
     label: Title
-    type: string
+    type: rich-text
