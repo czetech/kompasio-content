@@ -1,5 +1,14 @@
 media:
   input: media
+  extensions:
+  - jpg
+  - jpeg
+  - apng
+  - png
+  - gif
+  - svg
+  - avif
+  - webp
   categories:
   - image
 content:
