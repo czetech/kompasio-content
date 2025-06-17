@@ -1,3 +1,6 @@
+media:
+  categories:
+  - image
 content:
 - name: categories
   label: Categories
@@ -9,3 +12,4 @@ content:
   - name: title
     label: Title
     type: rich-text
+components:
