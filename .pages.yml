@@ -1,6 +1,4 @@
 media:
-  name: test-name
-  label: test-label
   input: media
   categories:
   - image
