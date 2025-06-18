@@ -25,7 +25,7 @@ content:
   - name: description
     label: Description
     description: |
-      Short category description.
+      Short category description.<br />
       USE INLINE STYLES ONLY (LINK, BOLD, ITALIC, STRIKETHROUGH, UNDERLINE)!
     type: rich-text
     options:
