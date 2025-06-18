@@ -24,7 +24,9 @@ content:
     required: true
   - name: description
     label: Description
-    description: Short category description. USE INLINE STYLES ONLY (LINK, BOLD, ITALIC, STRIKETHROUGH, UNDERLINE)!
+    description: |
+      Short category description.
+      USE INLINE STYLES ONLY (LINK, BOLD, ITALIC, STRIKETHROUGH, UNDERLINE)!
     type: rich-text
     options:
       media: false
