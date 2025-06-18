@@ -1,7 +1,7 @@
 media:
+- name: images
   label: Images
   input: images
-  output: /
   extensions:
   - apng
   - avif
@@ -28,7 +28,7 @@ content:
     type: rich-text
     options:
       media: false
-  filename: {primary}
+  filename: "{primary}"
   view:
     sort:
     - title
