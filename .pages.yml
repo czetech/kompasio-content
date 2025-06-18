@@ -20,8 +20,11 @@ content:
   - name: title
     label: Title
     description: Category name
-    type: rich-text
     required: true
+  - name: description
+    label: Description
+    description: Short category description
+    type: rich-text
     options:
       media: false
   filename: {primary}
