@@ -86,6 +86,35 @@ content:
       type: rich-text
       options:
         media: images
+    - name: tasks
+      label: Tasks
+      description: Step tasks.
+      type: object
+      list: true
+      fields:
+      - name: text
+        label: Text
+        description: Task text.
+        type: text
+        required: true
+      - name: identifier
+        label: Identifier
+        description: Category identifier. DO NOT REGENERATE AFTER CREATION!
+        type: uuid
+        options:
+          editable: false
+    - name: identifier
+      label: Identifier
+      description: Category identifier. DO NOT REGENERATE AFTER CREATION!
+      type: uuid
+      options:
+        editable: false
+  - name: identifier
+    label: Identifier
+    description: Category identifier. DO NOT REGENERATE AFTER CREATION!
+    type: uuid
+    options:
+      editable: false
   filename: "{primary}.yaml"
   view:
     sort:
