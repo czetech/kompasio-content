@@ -60,6 +60,7 @@ content:
     options:
       collection: guides_categories
       search: title
+      value: "{identifier}"
       label: "{title}"
   - name: description
     label: Description
