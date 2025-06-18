@@ -2,6 +2,7 @@ media:
   name: images
   label: Images
   input: images
+  output: /
   extensions:
   - apng
   - avif
