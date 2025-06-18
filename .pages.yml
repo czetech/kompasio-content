@@ -72,7 +72,9 @@ content:
     label: Steps
     description: Journey steps.
     type: object
-    list: true
+    list:
+      collapsible:
+        summary: "{index} - {title}"
     required: true
     fields:
     - name: title
@@ -90,13 +92,17 @@ content:
       label: Tasks
       description: Step tasks.
       type: object
-      list: true
+      list:
+        collapsible:
+          summary: "{text}"
       fields:
-      - name: text
-        label: Text
-        description: Task text.
-        type: text
+      - name: body
+        label: Body
+        description: Task body. USE INLINE STYLES ONLY (LINK, BOLD, ITALIC, STRIKETHROUGH, UNDERLINE)!
+        type: rich-text
         required: true
+        options:
+          media: images
       - name: identifier
         label: Identifier
         description: Category identifier. DO NOT REGENERATE AFTER CREATION!
