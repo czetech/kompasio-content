@@ -1,25 +1,36 @@
 media:
-  input: media
+- name: images
+  label: Images
+  input: images
   extensions:
-  - jpg
-  - jpeg
   - apng
-  - png
-  - gif
-  - svg
   - avif
+  - gif
+  - jpeg
+  - jpg
+  - png
+  - svg
   - webp
-  categories:
-  - image
 content:
-- name: categories
-  label: Categories
+- name: guides_categories
+  label: Guides - Categories
   type: collection
   path: collections/guides_categories
-  required: true
-  list: true
   fields:
   - name: title
     label: Title
+    description: Category name
     type: rich-text
-components:
+    required: true
+    options:
+      media: false
+  filename: {primary}
+  view:
+    sort:
+    - title
+    search:
+    - title
+  format: yaml
+  subfolders: false
+settings:
+  hide: true
