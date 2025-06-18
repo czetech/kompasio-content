@@ -37,9 +37,9 @@ content:
   format: yaml
   subfolders: false
 - name: guides_journeys
-  label: Guides - Categories
+  label: Guides - Journeys
   type: collection
-  path: collections/guides_categories
+  path: collections/guides_journeys
   fields:
   - name: title
     label: Title
