@@ -36,5 +36,54 @@ content:
     - title
   format: yaml
   subfolders: false
+- name: guides_journeys
+  label: Guides - Categories
+  type: collection
+  path: collections/guides_categories
+  fields:
+  - name: title
+    label: Title
+    description: Journey name
+    type: text
+    required: true
+  - name: category
+    label: Category
+    description: Journey category
+    type: reference
+    required: true
+    options:
+      collection: categories
+  - name: description
+    label: Description
+    description: Short journey description
+    type: rich-text
+    options:
+      media: false
+  - name: steps
+    label: Steps
+    description: Journey steps
+    type: object
+    list: true
+    required: true
+    fields:
+    - name: title
+      label: Title
+      description: Step name
+      type: text
+      required: true
+    - name: body
+      label: Body
+      description: Step body
+      type: rich-text
+      options:
+        media: images
+  filename: "{primary}.yaml"
+  view:
+    sort:
+    - title
+    search:
+    - title
+  format: yaml
+  subfolders: false
 settings:
   hide: true
