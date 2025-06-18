@@ -19,16 +19,18 @@ content:
   fields:
   - name: title
     label: Title
-    description: Category name
+    description: Category name.
     type: text
     required: true
   - name: description
     label: Description
-    description: Short category description
+    description: Short category description. USE INLINE STYLES ONLY (LINK, BOLD, ITALIC, STRIKETHROUGH, UNDERLINE)!
     type: rich-text
     options:
       media: false
   - name: identifier
+    label: Identifier
+    description: Category identifier. DO NOT REGENERATE AFTER CREATION!
     type: uuid
     options:
       editable: false
@@ -47,12 +49,12 @@ content:
   fields:
   - name: title
     label: Title
-    description: Journey name
+    description: Journey name.
     type: text
     required: true
   - name: category
     label: Category
-    description: Journey category
+    description: Journey category.
     type: reference
     required: true
     options:
@@ -61,25 +63,25 @@ content:
       label: "{title}"
   - name: description
     label: Description
-    description: Short journey description
+    description: Short journey description. USE INLINE STYLES ONLY (LINK, BOLD, ITALIC, STRIKETHROUGH, UNDERLINE)!
     type: rich-text
     options:
       media: false
   - name: steps
     label: Steps
-    description: Journey steps
+    description: Journey steps.
     type: object
     list: true
     required: true
     fields:
     - name: title
       label: Title
-      description: Step name
+      description: Step name.
       type: text
       required: true
     - name: body
       label: Body
-      description: Step body
+      description: Step body. USE H3 ONLY (DO NOT USE H1 AND H2)!
       type: rich-text
       options:
         media: images
