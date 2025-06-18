@@ -29,11 +29,8 @@ content:
     options:
       media: false
   - name: identifier
-    label: Identifier
-    description: Category identifier
     type: uuid
-    options:
-      editable: false
+    hidden: true
   filename: "{primary}.yaml"
   view:
     sort:
