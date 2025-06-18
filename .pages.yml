@@ -70,7 +70,7 @@ content:
       media: false
   - name: steps
     label: Steps
-    description: Journey steps.
+    description: Journey step.
     type: object
     list:
       collapsible:
@@ -91,7 +91,7 @@ content:
         media: images
     - name: tasks
       label: Tasks
-      description: Step tasks.
+      description: Step task.
       type: object
       list:
         collapsible:
