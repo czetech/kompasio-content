@@ -82,7 +82,7 @@ content:
       required: true
     - name: body
       label: Body
-      description: Step body. USE H3 ONLY (DO NOT USE H1 AND H2)!
+      description: Step body. USE H3 HEADING ONLY (DO NOT USE H1 AND H2)!
       type: rich-text
       options:
         media: images
