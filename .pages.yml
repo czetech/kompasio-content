@@ -28,7 +28,7 @@ content:
     type: rich-text
     options:
       media: false
-  - name: identifier
+  - name: uuid
     label: Identifier
     description: Category identifier. DO NOT REGENERATE AFTER CREATION!
     type: uuid
@@ -60,7 +60,7 @@ content:
     options:
       collection: guides_categories
       search: title
-      value: "{identifier}"
+      value: "{uuid}"
       label: "{title}"
   - name: description
     label: Description
@@ -104,19 +104,19 @@ content:
         required: true
         options:
           media: images
-      - name: identifier
+      - name: uuid
         label: Identifier
         description: Category identifier. DO NOT REGENERATE AFTER CREATION!
         type: uuid
         options:
           editable: false
-    - name: identifier
+    - name: uuid
       label: Identifier
       description: Category identifier. DO NOT REGENERATE AFTER CREATION!
       type: uuid
       options:
         editable: false
-  - name: identifier
+  - name: uuid
     label: Identifier
     description: Category identifier. DO NOT REGENERATE AFTER CREATION!
     type: uuid
