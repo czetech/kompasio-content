@@ -86,6 +86,7 @@ content:
       label: Body
       description: Step body. USE H3 HEADING ONLY (DO NOT USE H1 AND H2)!
       type: rich-text
+      required: true
       options:
         media: images
     - name: tasks
