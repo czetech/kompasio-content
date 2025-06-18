@@ -17,7 +17,7 @@ steps:
 
       K žiadosti je nutné priložiť lekársku správu od špecialistiu (v súvislosti
       s autizmom psychiatra) nie staršiu ako 6 mesiacov!
-    identifier: 1762227c-4d3a-47ca-b942-137d1708a837
+    uuid: 1762227c-4d3a-47ca-b942-137d1708a837
   - title: Žiadosť
     body: >-
       BSK nemá na túto žiadosť samostatnú elektronickú službu,
@@ -52,5 +52,5 @@ steps:
 
 
       Žiadosť si uložte ako PDF, vďalšom kroku ju pošleme.
-    identifier: 934599d0-c109-4ce7-a0f9-dfc2f1f271bd
-identifier: 5360cd0d-6bfb-4652-b66c-4743aa4a4fe5
+    uuid: 934599d0-c109-4ce7-a0f9-dfc2f1f271bd
+uuid: 5360cd0d-6bfb-4652-b66c-4743aa4a4fe5
