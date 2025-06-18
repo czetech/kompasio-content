@@ -52,7 +52,7 @@ content:
     type: reference
     required: true
     options:
-      collection: categories
+      collection: guides_categories
   - name: description
     label: Description
     description: Short journey description
