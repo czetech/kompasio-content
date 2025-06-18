@@ -25,7 +25,8 @@ steps:
       **Celkový príjem domácnosti sa od 1.12.2024 už neposudzuje.**
 
 
-      Dôležitá je už iba výška čistého príjmu __opatrovateľa zo zamestnania_._\*
+      Dôležitá je už iba výška čistého príjmu \__opatrovateľa zo
+      zamestnania_.\_\*
 
 
       Výška čistého mesačného príjmu opatrovateľa nesmie prekročiť 2,5 násobok
@@ -48,4 +49,33 @@ steps:
       Zdroj: [§41 ods.2 zákona 447/2008 Z.
       z.](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2008/447/20240701.html#paragraf-41.odsek-2)
     identifier: 043d30e1-45f0-43dc-9ca4-6e2a88a1f99e
+  - title: Príprava príloh
+    body: |-
+      a
+
+      b
+    tasks:
+      - body: Všetky prílohy pripravené v PDF
+        identifier: fb1ed3de-ffb2-4179-a2f0-0144ff68e6b4
+    identifier: 6f0faa89-301f-49a5-8fff-f71f2f8f641f
+  - title: Vyplnenie žiadosti
+    body: |-
+      a
+
+      b
+    tasks:
+      - body: Žiadosť vyplnená a skontrolovaná
+        identifier: 3dd537b8-5865-4bab-b1cf-3cec09af9b8f
+    identifier: 1f052942-179d-40b3-bcaf-c49bef6e27d7
+  - title: Priložiť prílohy
+    body: |-
+      a
+
+      b
+    tasks:
+      - body: Nahrať prílohy
+        identifier: ef7487a3-04a7-4aac-b03a-a119e95d8fdc
+      - body: Podpísať prílohy
+        identifier: 59e23160-a89e-46ca-bb2c-f68dc0083875
+    identifier: 7ab68e98-fe51-42e6-b29e-0ebe3f8465f5
 identifier: e4fe97cf-e68a-4ad9-94aa-37a9ce0effd0
