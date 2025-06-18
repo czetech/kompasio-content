@@ -20,6 +20,7 @@ content:
   - name: title
     label: Title
     description: Category name
+    type: text
     required: true
   - name: description
     label: Description
