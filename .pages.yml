@@ -28,7 +28,7 @@ content:
     type: rich-text
     options:
       media: false
-  filename: {primary}.yaml
+  filename: "{primary}.yaml"
   view:
     sort:
     - title
