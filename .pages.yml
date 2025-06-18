@@ -54,7 +54,6 @@ content:
     options:
       collection: guides_categories
       search: title
-      value: "{title}"
       label: "{title}"
   - name: description
     label: Description
