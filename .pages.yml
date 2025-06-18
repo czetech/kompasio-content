@@ -30,7 +30,6 @@ content:
       media: false
   - name: identifier
     type: uuid
-    hidden: true
     options:
       editable: false
   filename: "{primary}.yaml"
