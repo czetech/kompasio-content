@@ -94,7 +94,7 @@ content:
       type: object
       list:
         collapsible:
-          summary: "{text}"
+          summary: "{body}"
       fields:
       - name: body
         label: Body
