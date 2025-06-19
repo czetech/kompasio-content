@@ -22,7 +22,6 @@ content:
     type: reference
     options:
       collection: guides_journeys
-      multiple: true
       search: title
       value: "{uuid}"
       label: "{title}"
