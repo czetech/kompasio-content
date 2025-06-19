@@ -12,6 +12,21 @@ media:
   - svg
   - webp
 content:
+- name: guides
+  label: Guides
+  type: file
+  path: collections/guides.yaml
+  fields:
+  - name: featured
+    label: Featured
+    type: reference
+    options:
+      collection: guides_journeys
+      multiple: true
+      search: title
+      value: "{uuid}"
+      label: "{title}"
+  format: yaml
 - name: guides_categories
   label: Guides - Categories
   type: collection
