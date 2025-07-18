@@ -48,6 +48,7 @@ content:
     label: Identifier
     description: Category identifier. DO NOT REGENERATE AFTER CREATION!
     type: uuid
+    hidden: true
     options:
       editable: false
       generate: false
