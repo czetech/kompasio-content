@@ -49,7 +49,8 @@ content:
     description: Category identifier. DO NOT REGENERATE AFTER CREATION!
     type: uuid
     options:
-      editable: true
+      editable: false
+      generate: false
   filename: "{primary}.yaml"
   view:
     sort:
