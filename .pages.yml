@@ -48,6 +48,8 @@ content:
     label: Identifier
     description: Category identifier. DO NOT REGENERATE AFTER CREATION!
     type: uuid
+    options:
+      editable: true
   filename: "{primary}.yaml"
   view:
     sort:
