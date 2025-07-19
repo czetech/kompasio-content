@@ -57,6 +57,7 @@ content:
     description: Test.
     type: text
     default: default-value
+    hidden: true
   filename: "{primary}.yaml"
   view:
     sort:
