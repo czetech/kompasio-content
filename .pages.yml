@@ -52,6 +52,11 @@ content:
     options:
       editable: false
       generate: false
+  - name: test
+    label: Test
+    description: Test.
+    type: text
+    default: default-value
   filename: "{primary}.yaml"
   view:
     sort:
